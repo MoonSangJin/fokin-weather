@@ -113,14 +113,14 @@ const styles = StyleSheet.create({
     flex: 1,
     justifyContent: "center",
     alignItems: "center",
-    marginTop:40
+    marginTop: 40
   },
   title: {
     color: "white",
     fontSize: 44,
     fontWeight: "300",
     marginBottom: 20,
-   
+
   },
   subtitle: {
     fontWeight: "600",
@@ -133,7 +133,7 @@ const styles = StyleSheet.create({
     paddingHorizontal: 40,
     justifyContent: "center",
     flex: 1,
-    alignItems:"center"
+    alignItems: "center"
   }
 
 });
